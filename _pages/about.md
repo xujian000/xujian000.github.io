@@ -18,5 +18,5 @@ I have a strong interest and motivation for research work. I have excellent codi
 
 You can find my CV here [Xu Jian's Curriculum Vitae](../files/cv1.pdf)
 
-If you are in need of a research assistant, I would be very eager to discuss potential collaboration with you. Please feel free to contact me.<br>
+If you are in need of a research assistant, I would be very eager to discuss potential collaboration with you. Please feel free to contact me at [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn).<br>
 
