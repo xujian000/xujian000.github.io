@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 
-### University of Electronic Science and Technology of China       *Sep. 2017 - Jun. 2020, China*  
+### University of Electronic Science and Technology of China    <div style="text-align: right;">*Sep. 2017 - Jun. 2020, China*</div>     
 **M.S. in Communication and Information Systems**  
 GPA: 3.57/4.0  
 *(The university ranked 35th among Chinese universities in the QS Rankings 2024.)*
