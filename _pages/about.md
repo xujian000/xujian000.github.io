@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
 Hello, my name is Xu Jian. I am a graduate from the **University of Electronic Science and Technology of China**, where I studied Communication and Information Systems. <br>
 
 I have over three years of experience as a software development engineer in the tech industry, having previously worked at [Alibaba](https://www.alibaba.com/) and [RingCentral](https://www.ringcentral.com/).
