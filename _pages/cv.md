@@ -8,19 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Jian Xu
-
-**Email:** [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn)  
-**LinkedIn:** [linkedin.com/in/jian-xu-15a388180](https://linkedin.com/in/jian-xu-15a388180)  
-**GitHub:** [github.com/xujian000](https://github.com/xujian000)  
-
 ---
 
 ## Education
 
-### University of Electronic Science and Technology of China  
-*Sep. 2017 - Jun. 2020, China*  
+### University of Electronic Science and Technology of China       *Sep. 2017 - Jun. 2020, China*  
 **M.S. in Communication and Information Systems**  
 GPA: 3.57/4.0  
 *(The university ranked 35th among Chinese universities in the QS Rankings 2024.)*
