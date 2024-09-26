@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jian Xu"
+title                    : "Xu jian"
 title_separator          : "-"
-name                     : &name "Jian Xu"
+name                     : &name "Xu jian"
 description              : &description "personal description"
 url                      : https://xujian000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
