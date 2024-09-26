@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 ---
 
-<embed src="../files/cv1.pdf" width="100%" height="1600px" type="application/pdf">
+<embed src="../files/cv1.pdf" width="100%" height="1200px" type="application/pdf">
 
