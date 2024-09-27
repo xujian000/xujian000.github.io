@@ -7,16 +7,11 @@ redirect_from:
   - /about.html
 ---
 <br>
-I obtained a master's degree in **Communication and Information Systems** from the **University of Electronic Science and Technology of China**. <br>
+Hi, I am Xu Jian, a master's graduate in Communication and Information Systems from the **University of Electronic Science and Technology of China**.<br>
 
-I have over three years of experience as a software development engineer in the tech industry, having previously worked at [Alibaba](https://www.alibaba.com/) and [RingCentral](https://www.ringcentral.com/).
+With over three years of experience as a software development engineer at [Alibaba](https://www.alibaba.com/) and [RingCentral](https://www.ringcentral.com/), I have strong coding skills and the ability to implement solutions efficiently. Recently, I worked as a research assistant at UESTC, focusing on multimodal image fusion tasks.<br>
 
-I am currently **seeking unpaid remote research assistant opportunities** in Machine Learning, Data Mining, or Multimodal studies. <br>
+I am currently seeking unpaid remote research assistant opportunities in **Machine Learning, Data Mining, or Multimodal Studies**. Please find my CV attached for your reference: [Xu Jian's Curriculum Vitae](../files/cv1.pdf). <br>
 
-I have a strong interest and motivation for research work. I have excellent coding skills and can quickly implement ideas and engineering solutions. In the past several months, I have worked as a research assistant at the University of Electronic Science and Technology of China, focusing on multimodal image fusion tasks.<br>
-<br>
-
-You can find my CV here [Xu Jian's Curriculum Vitae](../files/cv1.pdf)
-
-If you are in need of a research assistant, I would be very eager to discuss potential collaboration with you. Please feel free to contact me at [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn).<br>
+I have a strong interest and motivation for research work. I have excellent coding skills and can quickly implement ideas and engineering solutions. If any collaboration opportunities are available, I would be eager to discuss further. Please contact me at [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn).<br>
 
