@@ -13,5 +13,5 @@ With over three years of experience as a software development engineer at [Aliba
 
 I am currently seeking unpaid remote research assistant opportunities in **Machine Learning, Data Mining, or Multimodal Studies**. Please find my CV attached for your reference: [Xu Jian's Curriculum Vitae](../files/cv1.pdf). <br>
 
-I have a strong interest and motivation for research work. I have excellent coding skills and can quickly implement ideas and engineering solutions. If any collaboration opportunities are available, I would be eager to discuss further. Please contact me at [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn).<br>
+I have a strong interest and motivation for research work. If any collaboration opportunities are available, I would be eager to discuss further. Please contact me at [xujian.0426@std.uestc.edu.cn](mailto:xujian.0426@std.uestc.edu.cn).<br>
 
